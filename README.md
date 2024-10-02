@@ -87,7 +87,6 @@ These are used to construct the `DATABASE_URL` in the Docker Compose file.
 
 [List your API endpoints here, for example:]
 
-- `GET /api/tiles`: Fetch all tiles
 - `POST /api/intersecting-tiles`: Get intersecting tiles
 
 ## Database
